@@ -28,9 +28,11 @@ A IA pode ser valiosa para acelerar o desenvolvimento em outros contextos. Aqui,
 
 1. Ler e compreender o conteúdo e o problema proposto.
 2. Elaborar uma solução com raciocínio próprio.
-3. Implementar a resolução utilizando Python.
+3. Implementar a resolução utilizando Python, respeitando o escopo do tópico atual.
 4. Executar testes, identificar erros e realizar as correções necessárias.
 5. Registrar e organizar as soluções para consulta e revisão futura.
+
+> **Progressão e escopo:** Cada exercício respeita rigorosamente a complexidade do tópico correspondente. As soluções não utilizam ferramentas, estruturas ou conceitos de capítulos posteriores, garantindo o domínio dos fundamentos e o raciocínio com os recursos disponíveis em cada etapa do estudo.
 
 O código poderá evoluir à medida que novos conceitos forem estudados, preservando o caráter autoral das resoluções.
 
